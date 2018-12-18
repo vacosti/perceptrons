@@ -17,5 +17,7 @@ aproximar um conjunto de pontos no plano ou no espaço, com tendência linear ou
 linear.
 
 ## Trabalho completo em pdf:
-./perceptrons.pdf
+[Perceptrons](./perceptrons.pdf)
+
+O trabalho completo em pdf contém uma introdução aos perceptrons bem como a derivação matemática dos algoritmos utilizados. 
   
