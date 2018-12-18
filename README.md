@@ -16,5 +16,6 @@ presente trabalho podem ser utilizados, em trabalhos futuros, para ensinar o per
 aproximar um conjunto de pontos no plano ou no espaço, com tendência linear ou não-
 linear.
 
-## Trabalho completo em pdf: ./perceptrons.pdf
+## Trabalho completo em pdf:
+./perceptrons.pdf
   
